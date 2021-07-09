@@ -1,2 +1,3 @@
 A=input()
-print(A)
+print(type(A))
+
