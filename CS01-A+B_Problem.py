@@ -1,5 +1,5 @@
-A = int(input("First number aroi:"))
-B = int(input("Second number aroi:"))
+A = int(input())
+B = int(input())
 C = A + B
-print("Super number aroi:",C)
+print(C)
 

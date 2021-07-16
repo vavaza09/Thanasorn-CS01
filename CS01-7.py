@@ -1,6 +1,4 @@
 A = float(input("Number:"))
-A = float(input("Number:"))
-A = float(input("Number:"))
 if(A<=10):
     print('ไม่ผ่าน')
 elif(A<=20):
